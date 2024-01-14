@@ -1,0 +1,35 @@
+#WORD COUNTER
+
+print('WORD COUNTER python program by SHRUTI GODSE :-\n')
+
+def word_count(sentence):
+    words = sentence.split()
+    return len(words)
+
+while True:
+    user_input = input("\nEnter a sentence (or type 'exit' to end):")
+
+    if user_input.lower() == 'exit':
+        print("Exiting the word counter. Goodbye!")
+        break
+
+    count = word_count(user_input)
+    print(f"\nNumber of words in the sentence: {count}")
+
+
+output:
+
+WORD COUNTER python program by SHRUTI GODSE :-
+
+Enter a sentence (or type 'exit' to end):I am a student of sandip foundation
+Number of words in the sentence: 7
+
+Enter a sentence (or type 'exit' to end):i am a girl
+Number of words in the sentence: 4
+
+Enter a sentence (or type 'exit' to end):exit
+Exiting the word counter. Goodbye!
+> 
+
+
+    
