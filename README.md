@@ -1,8 +1,8 @@
 # TechneuroInternship_SimpleCalculator_Python
-Task 2:
-Simple Calculator:
+Task 3:
+Word Counter
 
-Create a Python script for basic arithmetic operations such as addition, subtraction, multiplication, and division. It's a hands-on project for Python beginners.
+Write a Python script that counts the number of words in a sentence. It's a useful project to start understanding string manipulation in Python
 
 Code Explanation: 
 
