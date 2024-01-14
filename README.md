@@ -1,4 +1,4 @@
-# TechneuroInternship_SimpleCalculator_Python
+# TechneuroInternship_WordCounter_Python
 Task 3:
 Word Counter
 
